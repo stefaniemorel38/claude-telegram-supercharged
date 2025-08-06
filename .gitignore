@@ -6,3 +6,4 @@ dist/
 *.pyc
 node_modules/
 .env
+*.tmp
